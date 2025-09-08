@@ -1,0 +1,1 @@
+This is a simple number guessing game made with Python and Tkinter. The program generates a random number, and you try to guess each digit. It gives you hints with colors — green if you’re correct, yellow if the digit is in the wrong place, and red if your input is invalid. You have limited chances, and your score increases when you guess correctly.
